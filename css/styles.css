@@ -132,6 +132,8 @@ h3 {
     letter-spacing: 0.02em;
     text-align: center;
     max-width: 496px;
+    display: block;
+    margin: auto;
 }
 
 .button-order{
@@ -148,6 +150,8 @@ h3 {
     min-width: 169px;
     height: 56px;
     border-radius: 4px;
+    margin: 48px auto;
+
 }
 
 .button-order:hover{
@@ -187,7 +191,7 @@ h3 {
 
 .advantages-list{
     display: flex;
-    gap: 24;
+    gap: 24px;
 }
 
 .advantages-item{
@@ -320,6 +324,8 @@ h3 {
 
 .address-contacts{
     display: flex;
+    gap: 40px;
+    margin-left: 332px;
     
 }
 
