@@ -250,6 +250,7 @@ h3 {
     letter-spacing: 0.02em;
     color: #2E2F42;
     line-height: 1.2;
+    text-align: center;
 }
 
 .team-text{
@@ -258,6 +259,7 @@ h3 {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    text-align: center;
 }
 
 .portfolio-header{
