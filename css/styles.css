@@ -356,8 +356,7 @@ h3 {
 .container{
     width: 1158px;
     margin: 0 auto;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 0 15px;
 }
 
 .navigation{
@@ -368,8 +367,6 @@ h3 {
 
 .head-container{
     display: flex;
-    
-    
 }
 
 .navigate{
